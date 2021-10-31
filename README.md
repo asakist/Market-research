@@ -5,3 +5,5 @@ You’ve decided to open a small robot-run cafe in Los Angeles. The project is p
 
 # Project objective:
 Find the most promising street to invest and what characteristics the enterprise should have.
+
+# Presentation:https://docs.google.com/presentation/d/1LEzW1ufEjACGxjvvCJHI9O3r1M0W3Q9qh-prBqR_V8U/edit?usp=sharing
